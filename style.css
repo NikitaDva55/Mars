@@ -34,7 +34,7 @@ body {
   background-position: center;
 }
 
-.earth-slide { background-image: url('https://web-cdnprod.aa.com.tr/uploads/Contents/2026/04/04/thumbs_b_c_890c2ed8e09c77868b25a2d2b5d5e8ed.jpg?v=105955'); }
+.earth-slide { background-image: url('https://th-thumbnailer.cdn-si-edu.com/RDZDQ8PGGJB-RgGHDaG8ibs41ZQ=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20120705081006blue-marble_NASA-Earth-Observatory.jpg'); }
 .mars-slide { background-image: url('https://img.odcdn.com.br/wp-content/uploads/2023/07/Marte-via-NASA-JPL-Caltech.png'); }
 
 @keyframes spaceFlight {
